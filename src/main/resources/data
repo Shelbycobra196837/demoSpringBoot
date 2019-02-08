@@ -1,0 +1,4 @@
+insert into Cars
+value (1001 , 'Жигули', 'Зелёный' , 1001);
+insert into Person
+value (1001 , 'Jack', 'Black');
